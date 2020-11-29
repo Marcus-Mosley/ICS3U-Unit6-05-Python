@@ -10,8 +10,7 @@ import random
 def list_average(marks):
     # This function finds the average of a list
 
-    for counter in range(0, len(marks)):
-        average = sum(marks) / len(marks)
+    average = sum(marks) / len(marks)
 
     return average
 
