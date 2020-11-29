@@ -4,8 +4,6 @@
 # Created on November 2020
 # This program finds the average of a list
 
-import random
-
 
 def list_average(marks):
     # This function finds the average of a list
